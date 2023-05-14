@@ -16,6 +16,7 @@ SC : O(1)
 
 
 
+
 def nextPermutation(nums):
     length = len(nums)
     # base case
