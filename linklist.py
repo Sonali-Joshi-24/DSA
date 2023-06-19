@@ -109,6 +109,25 @@ q = Linkedlist()
 # removeNth node from back
 s = Linkedlist()
 
+# add two numbers ll
+a = Linkedlist()
+b = Linkedlist()
+
+
+# delete a node when it is given
+d = Linkedlist()
+
+
+# intersection in ll
+i = Linkedlist()
+j = Linkedlist()
+
+
+# linklist cycle
+z = Linkedlist()
+
+# reverse ll k ele
+e = Linkedlist()
 
 
 # a = [10,20,30,40]
